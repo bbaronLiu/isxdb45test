@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,9 +16,5 @@
   "bugs": {
     "url": "https://github.com/bbaronLiu/isxdb45test/issues"
   },
-  "homepage": "https://github.com/bbaronLiu/isxdb45test#readme",
-  "dependencies": {
-    "dotenv": "^8.2.0",
-    "pg": "^8.5.1"
-  }
+  "homepage": "https://github.com/bbaronLiu/isxdb45test#readme"
 }
