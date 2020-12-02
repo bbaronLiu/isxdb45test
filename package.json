@@ -1,0 +1,23 @@
+{
+  "name": "isxdb45test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbaronLiu/isxdb45test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbaronLiu/isxdb45test/issues"
+  },
+  "homepage": "https://github.com/bbaronLiu/isxdb45test#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^8.5.1"
+  }
+}
